@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Navit-AppImage)](https://github.com/pkgforge-dev/Navit-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/navit-gps/navit/04674e17b16a107afc07f67c47f07d3e4359c0a0/navit/icons/navit.svg" width="128" />
 </p>
 
 | Latest Stable Release | Upstream URL |
